@@ -14,6 +14,8 @@
 * [Python高级编程](http://dongweiming.github.io/Expert-Python/#1)
 
 ####书籍
+* [Python Tips](http://book.pythontips.com/en/latest/index.html)
+
 
 ####开源项目
 
