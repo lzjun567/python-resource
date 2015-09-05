@@ -13,6 +13,7 @@
 * [Python装饰器](http://www.cnblogs.com/vamei/archive/2013/02/16/2820212.html)
 * [Python面试题](http://xiaocong.github.io/blog/2013/06/16/python-interview-question-and-answer/)
 * [理解Python的with](http://www.361way.com/python-with/3697.html)
+* [为什么Python中没有Switch/Case语句?](http://python.jobbole.com/82008/)
 
 ####高级
 * [如何像Python高手(Pythonista)一样编程](http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/)
