@@ -16,13 +16,13 @@
 * [为什么Python中没有Switch/Case语句?](http://python.jobbole.com/82008/)
 
 ####高级
-* [如何像Python高手(Pythonista)一样编程](http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/)
+* [如何像Pythonista一样编程](http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/)
 * [Python高级编程](http://dongweiming.github.io/Expert-Python/#1)
 * [Inside the Python GIL](http://www.dabeaz.com/python/GIL.pdf)
 * [Python最佳实践](http://docs.python-guide.org/en/latest/)
 
 ####书籍
-* [Python Tips](http://book.pythontips.com/en/latest/index.html)
+* [《Python Tips》](http://book.pythontips.com/en/latest/index.html)
 
 ####开源项目
 * [gevent程序员指南](http://xlambda.com/gevent-tutorial/)
