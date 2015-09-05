@@ -14,12 +14,16 @@
 * [Python面试题](http://xiaocong.github.io/blog/2013/06/16/python-interview-question-and-answer/)
 * [理解Python的with](http://www.361way.com/python-with/3697.html)
 * [为什么Python中没有Switch/Case语句?](http://python.jobbole.com/82008/)
+* [python“不为人知的”特性](http://foofish.net/blog/25/python-tricks-tips)
+* [如何理解Python关键字yield](http://foofish.net/blog/78/understanding-yield)
 
 ####高级
+* [理解Python中的元类](http://python.jobbole.com/21351/)
 * [如何像Pythonista一样编程](http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/)
 * [Python高级编程](http://dongweiming.github.io/Expert-Python/#1)
 * [Inside the Python GIL](http://www.dabeaz.com/python/GIL.pdf)
 * [Python最佳实践](http://docs.python-guide.org/en/latest/)
+*
 
 ####书籍
 * [《Python Tips》](http://book.pythontips.com/en/latest/index.html)
