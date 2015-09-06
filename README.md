@@ -16,6 +16,7 @@
 * [为什么Python中没有Switch/Case语句?](http://python.jobbole.com/82008/)
 * [python“不为人知的”特性](http://foofish.net/blog/25/python-tricks-tips)
 * [如何理解Python关键字yield](http://foofish.net/blog/78/understanding-yield)
+* [Python 代码性能优化技巧](http://www.ibm.com/developerworks/cn/linux/l-cn-python-optim/)
 
 ####高级
 * [理解Python中的元类](http://python.jobbole.com/21351/)
@@ -23,6 +24,7 @@
 * [Python高级编程](http://dongweiming.github.io/Expert-Python/#1)
 * [Inside the Python GIL](http://www.dabeaz.com/python/GIL.pdf)
 * [Python最佳实践](http://docs.python-guide.org/en/latest/)
+* [Speeding Up Your Python Code](http://www.maxburstein.com/blog/speeding-up-your-python-code/)
 *
 
 ####书籍
