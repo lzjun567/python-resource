@@ -30,6 +30,7 @@
 
 ####书籍
 * [《Python Tips》](http://book.pythontips.com/en/latest/index.html)
+* [《零基础学python》](https://github.com/qiwsir/StarterLearningPython)
 
 ####开源项目
 * [gevent程序员指南](http://xlambda.com/gevent-tutorial/)
