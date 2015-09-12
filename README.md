@@ -19,6 +19,7 @@
 * [如何理解Python关键字yield](http://foofish.net/blog/78/understanding-yield)
 * [Python 代码性能优化技巧](http://www.ibm.com/developerworks/cn/linux/l-cn-python-optim/)
 * [Python 描述符(descriptor)杂记](https://blog.tonyseek.com/post/notes-about-python-descriptor/)
+* [理解Python WSGI ](http://www.letiantian.me/2015-09-10-understand-python-wsgi/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ####高级
 * [理解Python中的元类](http://python.jobbole.com/21351/)
