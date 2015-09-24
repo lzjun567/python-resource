@@ -13,6 +13,7 @@
 * [Python的方法解析顺序(MRO)](http://hanjianwei.com/2013/07/25/python-mro/)
 * [Python装饰器](http://www.cnblogs.com/vamei/archive/2013/02/16/2820212.html)
 * [Python面试题](http://xiaocong.github.io/blog/2013/06/16/python-interview-question-and-answer/)
+* [关于Python的面试题](https://github.com/taizilongxu/interview_python)
 * [理解Python的with](http://www.361way.com/python-with/3697.html)
 * [为什么Python中没有Switch/Case语句?](http://python.jobbole.com/82008/)
 * [python“不为人知的”特性](http://foofish.net/blog/25/python-tricks-tips)
