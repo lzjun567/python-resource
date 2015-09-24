@@ -19,6 +19,7 @@
 * [如何理解Python关键字yield](http://foofish.net/blog/78/understanding-yield)
 * [Python 代码性能优化技巧](http://www.ibm.com/developerworks/cn/linux/l-cn-python-optim/)
 * [Python 描述符(descriptor)杂记](https://blog.tonyseek.com/post/notes-about-python-descriptor/)
+* [Python descriptor](http://hbprotoss.github.io/posts/python-descriptor.html)
 * [理解Python WSGI ](http://www.letiantian.me/2015-09-10-understand-python-wsgi/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ####高级
@@ -28,7 +29,8 @@
 * [Inside the Python GIL](http://www.dabeaz.com/python/GIL.pdf)
 * [Python最佳实践](http://docs.python-guide.org/en/latest/)
 * [Speeding Up Your Python Code](http://www.maxburstein.com/blog/speeding-up-your-python-code/)
-*
+* [Python垃圾回收机制](http://hbprotoss.github.io/posts/pythonla-ji-hui-shou-ji-zhi.html)
+
 
 ####书籍
 * [《Python Tips》](http://book.pythontips.com/en/latest/index.html)
