@@ -7,6 +7,7 @@
 * [Python函数](http://www.cnblogs.com/vamei/archive/2012/06/01/2529500.html)
 * [Python正则表达式指南](http://www.cnblogs.com/huxi/archive/2010/07/04/1771073.html)
 * [re.search与re.match的区别](http://stackoverflow.com/questions/180986/what-is-the-difference-between-pythons-re-search-and-re-match)
+* [Python中文文档](http://python.usyiyi.cn/)
 
 ####进阶
 * [Python中的变量、引用、拷贝和作用域](http://xianglong.me/article/python-variable-quote-copy-and-scope/)
