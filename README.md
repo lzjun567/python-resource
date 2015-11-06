@@ -33,6 +33,7 @@
 * [Python最佳实践](http://docs.python-guide.org/en/latest/)
 * [Speeding Up Your Python Code](http://www.maxburstein.com/blog/speeding-up-your-python-code/)
 * [Python垃圾回收机制](http://hbprotoss.github.io/posts/pythonla-ji-hui-shou-ji-zhi.html)
+* [Python内存浅析](http://karlma8812.github.io/python/2014/06/21/python-memory-management.html)
 
 
 ####书籍
